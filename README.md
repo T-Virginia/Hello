@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Devvi86
 - 👀 I’m interested in front end development
+- I'm broadening knowledge of html, css and php
 - 🌱 I’m currently learning react.
 
 
