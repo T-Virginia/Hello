@@ -1,4 +1,4 @@
-- 👋 Hi, I’m VIRGINIA
+- 👋 Hi, I’m Virginia
 - 👀 I’m interested in front end development
 - I'm broadening knowledge of HTML, CSS, Javascript and PHP.
 - 🌱 I’m currently learning React.
