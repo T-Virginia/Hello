@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @DevVi86
+- 👋 Hi, I’m VIRGINIA
 - 👀 I’m interested in front end development
-- I'm broadening knowledge of html, css and php
-- 🌱 I’m currently learning react.
+- I'm broadening knowledge of HTML, CSS, Javascript and PHP.
+- 🌱 I’m currently learning React.
 
 
 <!---
